@@ -1,9 +1,9 @@
 # Notas:
 
-Este es un pequeño servidor de express listo para ejecutarse y servir la carpeta public en la web.
+Esta es una aplicacion que implementa sockets
 
-Recuerden que deben de reconstruir los módulos de node con el comando
-
+Pasos para correr la aplicacion
 ```
-npm install
+-npm install
+-npm start
 ```
